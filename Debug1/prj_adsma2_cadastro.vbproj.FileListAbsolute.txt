@@ -1,0 +1,93 @@
+D:\visual2\prj_adsma2_cadastro\bin\Debug\prj_adsma2_cadastro.exe.config
+D:\visual2\prj_adsma2_cadastro\bin\Debug\prj_adsma2_cadastro.exe
+D:\visual2\prj_adsma2_cadastro\bin\Debug\prj_adsma2_cadastro.pdb
+D:\visual2\prj_adsma2_cadastro\bin\Debug\prj_adsma2_cadastro.xml
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.AssemblyReference.cache
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.SuggestedBindingRedirects.cache
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.Form1.resources
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.Resources.resources
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.GenerateResource.cache
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.CoreCompileInputs.cache
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.exe
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.xml
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.pdb
+D:\visual2\prj_adsma2_cadastro\obj\Debug\Interop.ADODB.dll
+D:\visual2\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\bin\Debug\prj_adsma2_cadastro.exe.config
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\bin\Debug\prj_adsma2_cadastro.exe
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\bin\Debug\prj_adsma2_cadastro.pdb
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\bin\Debug\prj_adsma2_cadastro.xml
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.Form1.resources
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.Resources.resources
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.exe
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.xml
+C:\Users\aluno\Desktop\prj_adsma2_cadastro\obj\Debug\prj_adsma2_cadastro.pdb
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.Form1.resources
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.Resources.resources
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.exe
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.xml
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.pdb
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.exe.config
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.exe
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.pdb
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.xml
+D:\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.exe.config
+D:\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.exe
+D:\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.pdb
+D:\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.xml
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.AssemblyReference.cache
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.SuggestedBindingRedirects.cache
+D:\prj_adsma2_cadastroF\obj\Debug\Interop.ADODB.dll
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.ResolveComReference.cache
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.Form1.resources
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.Resources.resources
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.GenerateResource.cache
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.CoreCompileInputs.cache
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.exe
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.xml
+D:\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.pdb
+C:\Users\aluno\Desktop\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.Form2.resources
+D:\Unidade de USB\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.exe.config
+D:\Unidade de USB\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.exe
+D:\Unidade de USB\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.pdb
+D:\Unidade de USB\prj_adsma2_cadastroF\bin\Debug\prj_adsma2_cadastro.xml
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.AssemblyReference.cache
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.SuggestedBindingRedirects.cache
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\Interop.ADODB.dll
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.ResolveComReference.cache
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.Form1.resources
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.Form2.resources
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.Resources.resources
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.GenerateResource.cache
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.vbproj.CoreCompileInputs.cache
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.exe
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.xml
+D:\Unidade de USB\prj_adsma2_cadastroF\obj\Debug\prj_adsma2_cadastro.pdb
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\bin\Debug\prj_adsma2_cadastro.exe.config
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\bin\Debug\prj_adsma2_cadastro.exe
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\bin\Debug\prj_adsma2_cadastro.pdb
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\bin\Debug\prj_adsma2_cadastro.xml
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.vbproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.vbproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\Interop.ADODB.dll
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.vbproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.Form1.resources
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.Form2.resources
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.Resources.resources
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.vbproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.exe
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.xml
+C:\Users\lenovo\Desktop\VENDA E CONTOLE DE ESTOQUE DE SALGADOS\obj\Debug\prj_adsma2_cadastro.pdb
