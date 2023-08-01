@@ -54,11 +54,23 @@
     <td>Código com indentação e nome de variáveis proporcional ao tipo de dado carregados.</td>
     <td>manutenibilidade</td>
   </tr>
+</TABLE>
+<br>
+<TABLE>
+  <tr>
+    <td><B>REQUISITOS DO SISTEMA</B></td>
+  </tr>
+  <tr>
+    <td>Ambiente operacional – Windows – Desktop</td>
+  </tr>
+  <tr>
+    <td>RS02	Banco de dados: Access 2000 – 2007 (extensão .mdb)</td>
+  </tr>
+  <tr>
+    <td>Framework - .NET Framework 4.7.2</td>
+  </tr>
 
 </TABLE>
-
-
-
 <br>
 <h4>INSTRUÇÕES PARA INICIALIZAR O SOFTWARE:</h4>
 1. após baixar o arquivo, retire o mesmo do arquivo zip <br>
@@ -66,6 +78,8 @@
 3. dentro da mesma acesse a pasta "Debug1" <br>
 4. click em "prj_adsma2_cadastro" <br>
 5. utilize o login "admin" e a senha "admin" para ter acesso a todo o sistema <br>
+
+
 
 
 
