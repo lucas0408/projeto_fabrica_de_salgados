@@ -78,6 +78,8 @@
 3. dentro da mesma acesse a pasta "Debug1" <br>
 4. click em "prj_adsma2_cadastro" <br>
 5. utilize o login "admin" e a senha "admin" para ter acesso a todo o sistema <br>
+<br>
+<P>PARA SANBER MAIS SOBRE MEU PERFIL PROFISSIONAL ACESSE MEU <a href="https://www.linkedin.com/in/lucas-gabriel-navas-sabino-150640250" target="_blank" rel="external">LINKEDIN</a></P>
 
 
 
