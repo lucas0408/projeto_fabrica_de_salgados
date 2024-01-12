@@ -40,7 +40,7 @@
 
 </TABLE>
 <br>
-<h4>REQUISITOS FUNCIONAIS:</h4>
+<h4>REQUISITOS NÃO FUNCIONAIS:</h4>
 <TABLE>
   <tr>
     <td><STRONG>REQUISITO NÃO FUNCIONAL</STRONG></td>
@@ -51,7 +51,7 @@
     <td>Segurança</td>
   </tr>
   <tr>
-    <td>Código com indentação e nome de variáveis proporcional ao tipo de dado carregados.</td>
+    <td>Código com indentaçã e nome de variáveis proporcional ao tipo de dado carregados.</td>
     <td>manutenibilidade</td>
   </tr>
 </TABLE>
@@ -79,7 +79,7 @@
 4. click em "prj_adsma2_cadastro" <br>
 5. utilize o login "admin" e a senha "admin" para ter acesso a todo o sistema <br>
 <br>
-<P>PARA SANBER MAIS SOBRE MEU PERFIL PROFISSIONAL ACESSE MEU <a href="https://www.linkedin.com/in/lucas-gabriel-navas-sabino-150640250" target="_blank" rel="external">LINKEDIN</a></P>
+<P>PARA SABER MAIS SOBRE MEU PERFIL PROFISSIONAL ACESSE MEU <a href="https://www.linkedin.com/in/lucas-gabriel-navas-sabino-150640250" target="_blank" rel="external">LINKEDIN</a></P>
 
 
 
