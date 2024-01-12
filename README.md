@@ -1,6 +1,6 @@
 # PROJETO FABRICA DE SALGADOS
 
-><h5>software personalizado feito para auxiliar na gestão de microempresas voltada ao ramo de venda e fabricação de salgados.</h5>
+><h5>software personalizado feito para auxiliar na gestão de microempresasvoltada ao ramo de venda e fabricação de salgados.</h5>
 <br>
 <h4>REQUISITOS FUNCIONAIS:</h4>
 
